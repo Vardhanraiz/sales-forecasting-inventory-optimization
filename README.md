@@ -426,12 +426,3 @@ If you find this project useful, consider giving the repository a star.
 https://sales-forecasting-inventory-optimization-buxumx4uhrcxxlfyk5heb.streamlit.app/
 
 
-One correction you should make before treating the repository as finished: **your current GitHub repository appears to contain the deployment app and generated dashboard data, but not necessarily the full model-training notebooks/code that produced the SARIMA, Prophet, XGBoost, Isolation Forest, Z-Score, K-Means, and PCA results.**
-
-For a serious ML portfolio project, that's a weakness. A recruiter should be able to inspect not only the final dashboard but also the actual model-development work. Your ideal next step is to add your main Colab notebook as something like:
-
-```text
-notebooks/
-└── sales_forecasting_inventory_optimization.ipynb
-
-That would make your claims about the ML work verifiable and make the repository significantly stronger.
