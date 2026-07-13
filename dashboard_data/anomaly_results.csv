@@ -1,0 +1,27 @@
+Date,Sales,Isolation Forest,Z-Score,Detection Result
+2015-01-04,304.508,True,False,Isolation Forest Only
+2015-02-08,968.534,True,False,Isolation Forest Only
+2015-02-22,224.912,True,False,Isolation Forest Only
+2015-03-22,37703.665,True,False,Isolation Forest Only
+2015-06-21,11139.4446,False,True,Z-Score Only
+2015-07-19,1387.686,True,True,Detected by Both
+2015-07-26,21590.079999999998,False,True,Z-Score Only
+2015-09-13,29959.137,True,True,Detected by Both
+2016-01-10,1973.444,False,True,Z-Score Only
+2016-01-24,358.522,True,False,Isolation Forest Only
+2016-08-28,15773.478,False,True,Z-Score Only
+2016-09-18,24095.96,False,True,Z-Score Only
+2016-11-13,27965.3492,False,True,Z-Score Only
+2017-05-28,23367.662,False,True,Z-Score Only
+2017-08-27,14460.025,False,True,Z-Score Only
+2017-09-03,17558.9918,False,True,Z-Score Only
+2017-10-08,28412.098,False,True,Z-Score Only
+2017-11-26,27367.716,False,True,Z-Score Only
+2017-12-17,25449.8,True,False,Isolation Forest Only
+2018-03-25,26029.904,False,True,Z-Score Only
+2018-07-01,17261.1922,False,True,Z-Score Only
+2018-08-19,22222.554,False,True,Z-Score Only
+2018-09-23,26104.433,False,True,Z-Score Only
+2018-11-04,29017.467,True,True,Detected by Both
+2018-11-18,30572.447,True,True,Detected by Both
+2018-12-02,35998.9,True,True,Detected by Both
